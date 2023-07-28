@@ -1,0 +1,29 @@
+
+.d-flex {
+    display: flex; /*tudo mesma linha*/
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.justify-items-center {
+    justify-items: center;
+}
+
+.p-1 {
+    padding: 5px;
+}
+
+.p-2 {
+    padding: 10px;
+}
+
+.p-3 {
+    padding: 15px;
+}
+
+.bi {
+    font-size: 1.5rem;
+    margin-right: 0.3em;
+}
